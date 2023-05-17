@@ -1,2 +1,2 @@
 # odin-recipies
-The Odin Project - Recipies Assignment HTML/CSS.
+The Odin Project - Recipies Assignment: HTML|CSS 
